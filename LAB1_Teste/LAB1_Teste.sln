@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerarArquivosXml_ou_Json", "GerarArquivosXml_ou_Json\GerarArquivosXml_ou_Json.csproj", "{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7E8DC6-E3B2-437A-A35F-740518CECDAA}
+	EndGlobalSection
+EndGlobal

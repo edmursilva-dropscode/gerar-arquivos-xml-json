@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_LAB1\\LAB1_Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}|GerarArquivosXml_ou_Json\\GerarArquivosXml_ou_Json.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_lab1\\lab1_teste\\gerararquivosxml_ou_json\\forms\\frmgerararquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}|GerarArquivosXml_ou_Json\\GerarArquivosXml_ou_Json.csproj|solutionrelative:gerararquivosxml_ou_json\\forms\\frmgerararquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}|GerarArquivosXml_ou_Json\\GerarArquivosXml_ou_Json.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_lab1\\lab1_teste\\gerararquivosxml_ou_json\\bbl\\bbl_alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}|GerarArquivosXml_ou_Json\\GerarArquivosXml_ou_Json.csproj|solutionrelative:gerararquivosxml_ou_json\\bbl\\bbl_alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}|GerarArquivosXml_ou_Json\\GerarArquivosXml_ou_Json.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_lab1\\lab1_teste\\gerararquivosxml_ou_json\\forms\\frmgerararquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}|GerarArquivosXml_ou_Json\\GerarArquivosXml_ou_Json.csproj|solutionrelative:gerararquivosxml_ou_json\\forms\\frmgerararquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}|GerarArquivosXml_ou_Json\\GerarArquivosXml_ou_Json.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_lab1\\lab1_teste\\gerararquivosxml_ou_json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091D94F0-CDD0-45E7-B6CD-5FF93A3A4F20}|GerarArquivosXml_ou_Json\\GerarArquivosXml_ou_Json.csproj|solutionrelative:gerararquivosxml_ou_json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_LAB1\\LAB1_Teste\\GerarArquivosXml_ou_Json\\Program.cs",
+              "RelativeDocumentMoniker": "GerarArquivosXml_ou_Json\\Program.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_LAB1\\LAB1_Teste\\GerarArquivosXml_ou_Json\\Program.cs",
+              "RelativeToolTip": "GerarArquivosXml_ou_Json\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:30:49.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BBL_Alunos.cs",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_LAB1\\LAB1_Teste\\GerarArquivosXml_ou_Json\\BBL\\BBL_Alunos.cs",
+              "RelativeDocumentMoniker": "GerarArquivosXml_ou_Json\\BBL\\BBL_Alunos.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_LAB1\\LAB1_Teste\\GerarArquivosXml_ou_Json\\BBL\\BBL_Alunos.cs",
+              "RelativeToolTip": "GerarArquivosXml_ou_Json\\BBL\\BBL_Alunos.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAIwL0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:51:57.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmGerarArquivos.cs",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_LAB1\\LAB1_Teste\\GerarArquivosXml_ou_Json\\Forms\\frmGerarArquivos.cs",
+              "RelativeDocumentMoniker": "GerarArquivosXml_ou_Json\\Forms\\frmGerarArquivos.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_LAB1\\LAB1_Teste\\GerarArquivosXml_ou_Json\\Forms\\frmGerarArquivos.cs",
+              "RelativeToolTip": "GerarArquivosXml_ou_Json\\Forms\\frmGerarArquivos.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:34:24.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGerarArquivos.cs [Design]",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_LAB1\\LAB1_Teste\\GerarArquivosXml_ou_Json\\Forms\\frmGerarArquivos.cs",
+              "RelativeDocumentMoniker": "GerarArquivosXml_ou_Json\\Forms\\frmGerarArquivos.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_LAB1\\LAB1_Teste\\GerarArquivosXml_ou_Json\\Forms\\frmGerarArquivos.cs [Design]",
+              "RelativeToolTip": "GerarArquivosXml_ou_Json\\Forms\\frmGerarArquivos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:31:12.275Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

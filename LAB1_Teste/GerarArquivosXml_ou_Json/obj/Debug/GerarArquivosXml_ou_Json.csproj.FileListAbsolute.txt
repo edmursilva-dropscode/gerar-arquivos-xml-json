@@ -1,0 +1,13 @@
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\bin\Debug\GerarArquivosXml_ou_Json.exe.config
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\bin\Debug\GerarArquivosXml_ou_Json.exe
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\bin\Debug\GerarArquivosXml_ou_Json.pdb
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\bin\Debug\Newtonsoft.Json.dll
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\bin\Debug\Newtonsoft.Json.xml
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\obj\Debug\GerarArquivosXml_ou_Json.csproj.AssemblyReference.cache
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\obj\Debug\GerarArquivosXml_ou_Json.Properties.Resources.resources
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\obj\Debug\GerarArquivosXml_ou_Json.frmGerarArquivos.resources
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\obj\Debug\GerarArquivosXml_ou_Json.csproj.GenerateResource.cache
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\obj\Debug\GerarArquivosXml_ou_Json.csproj.CoreCompileInputs.cache
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\obj\Debug\GerarArq.6679F39A.Up2Date
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\obj\Debug\GerarArquivosXml_ou_Json.exe
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_LAB1\LAB1_Teste\GerarArquivosXml_ou_Json\obj\Debug\GerarArquivosXml_ou_Json.pdb
