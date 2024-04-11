@@ -1,9 +1,13 @@
-# GERAR ARQUIVOS XML ou JSON C# - WINDOWS FORMS
+# GERAR ARQUIVOS XML ou JSON C#
 <br>
 <h1 align="center">
     <img src="./LAB1_Teste/GerarArquivosXml_ou_Json/Images/Imagem02.png">
 </h1>
 <br>
+
+## SOFTWARE UTILIZADOS 
+- Visual Studio 2022
+- Linguagem C# windows forms
 
 # CarregarGridAlunos
 <br>
