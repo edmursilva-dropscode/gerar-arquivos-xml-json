@@ -5,7 +5,7 @@
 </h1>
 <br>
 
-## SOFTWARE UTILIZADOS 
+## SOFTWARE UTILIZADO 
 - Visual Studio 2022
 - Linguagem C# windows forms
 
