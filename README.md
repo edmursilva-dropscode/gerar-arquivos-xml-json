@@ -5,7 +5,6 @@
 </h1>
 <br>
 
-<br>
 # CarregarGridAlunos
 <br>
 Este método carrega dados em um DataGridView. Primeiro, ele limpa as linhas existentes, então chama o método LerArquivoTXT para ler dados de um arquivo de texto (arquivoTXT) e populaciona o DataGridView com eles. Após carregar os dados, ele define várias propriedades do DataGridView para controlar sua aparência e o atualiza.
