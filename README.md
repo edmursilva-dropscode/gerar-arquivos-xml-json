@@ -15,7 +15,7 @@ Este método carrega dados em um DataGridView. Primeiro, ele limpa as linhas exi
 
 # LerArquivoTXT
 <br>
-Este método privado lê dados de um arquivo de texto, separação dos dados por ponto e virgula(;) e populaciona o DataGridView com eles. Primeiro, ele limpa as linhas existentes, lê cada linha do arquivo de texto, divide-a em campos de dados individuais usando ';' como delimitador, e então adiciona uma nova linha ao DataGridView para cada linha de dados. Se o número de campos de dados em qualquer linha não for igual a 4, ele exibe uma mensagem de erro.
+Este método privado lê dados de um arquivo de texto e populaciona o DataGridView com eles. Primeiro, ele limpa as linhas existentes, lê cada linha do arquivo de texto, divide-a em campos de dados individuais usando ';' como delimitador, e então adiciona uma nova linha ao DataGridView para cada linha de dados. Se o número de campos de dados em qualquer linha não for igual a 4, ele exibe uma mensagem de erro.
 
 # GerarXML
 <br>
